@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    justify-items: auto;
+    font-size: large;
+    text-align: center;
+}
+.update{
+    border: 5px;
+    font-size: large;
+    text-align: center;
+}
